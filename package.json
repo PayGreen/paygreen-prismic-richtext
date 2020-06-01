@@ -1,0 +1,11 @@
+{
+    "name": "paygreen-richtext",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@gitlab.com:Paygreen-website/tools/paygreen-richtext.git",
+    "author": "Matthieu Coulon <matthieu.coulon@paygreen.fr>",
+    "license": "MIT",
+    "devDependencies": {
+        "lerna": "^3.20.2"
+    }
+}

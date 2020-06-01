@@ -1,0 +1,42 @@
+{
+    "name": "@paygreen-richtext/core",
+    "version": "0.0.0",
+    "description": "> TODO: description",
+    "author": "Matthieu Coulon <matthieu.coulon@paygreen.fr>",
+    "homepage": "",
+    "license": "ISC",
+    "main": "build/index.cjs.js",
+    "module": "build/index.esm.js",
+    "browser": "build/index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "files": [
+        "lib"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "build": "rollup -c",
+        "prepare": "npm run build"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.10.2",
+        "@babel/preset-env": "^7.10.2",
+        "@babel/preset-react": "^7.10.1",
+        "babel-loader": "^8.1.0",
+        "rollup": "^1.21.4",
+        "rollup-plugin-babel": "^4.3.3",
+        "rollup-plugin-commonjs": "^10.1.0",
+        "rollup-plugin-eslint": "^7.0.0",
+        "rollup-plugin-node-resolve": "^5.2.0",
+        "rollup-plugin-peer-deps-external": "^2.2.0"
+    },
+    "peerDependencies": {
+        "@paygreen/paygreen-ui": "^0.2.29",
+        "react": "^16.13.1",
+        "styled-components": "^4.3.2",
+        "prismic-reactjs": "^1.1.0"
+    }
+}

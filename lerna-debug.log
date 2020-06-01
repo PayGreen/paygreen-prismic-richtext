@@ -1,0 +1,6 @@
+0 silly argv { _: [ 'bootstrap' ], lernaVersion: '3.20.2', '$0': 'lerna' }
+1 notice cli v3.20.2
+2 verbose rootPath /home/matthieu/dev/front/paygreen-richtext
+3 error JSONError: Unexpected token } in JSON at position 750 while parsing near '...tjs": "^1.1.0",    },    "devDependenc...' in packages/core/package.json
+3 error     at module.exports (/usr/lib/node_modules/lerna/node_modules/parse-json/index.js:26:19)
+3 error     at parse (/usr/lib/node_modules/lerna/node_modules/load-json-file/index.js:15:9)
