@@ -1,7 +1,7 @@
 {
     "name": "@paygreen-richtext/core",
     "version": "0.0.0",
-    "description": "> TODO: description",
+    "description": "RichText for prismic with PayGreen UI",
     "author": "Matthieu Coulon <matthieu.coulon@paygreen.fr>",
     "homepage": "",
     "license": "ISC",

@@ -12,6 +12,7 @@
     "files": [
         "lib"
     ],
+    "private": true,
     "publishConfig": {
         "access": "public"
     },
@@ -32,7 +33,6 @@
         "babel-loader": "^8.1.0",
         "styled-components": "^4.3.2"
     },
- 
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
