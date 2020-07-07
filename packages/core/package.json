@@ -1,6 +1,6 @@
 {
     "name": "@paygreen-richtext/core",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "RichText for prismic with PayGreen UI",
     "author": "Matthieu Coulon <matthieu.coulon@paygreen.fr>",
     "homepage": "",
@@ -14,7 +14,7 @@
     "repository": {
         "type": "git",
         "url": "git@github.com:PayGreen/paygreen-prismic-richtext.git"
-      },
+    },
     "files": [
         "lib"
     ],
