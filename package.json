@@ -1,5 +1,4 @@
 {
-    "name": "paygreen-richtext",
     "version": "1.0.0",
     "main": "index.js",
     "repository": "git@gitlab.com:Paygreen-website/tools/paygreen-richtext.git",
