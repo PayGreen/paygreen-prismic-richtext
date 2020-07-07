@@ -38,5 +38,6 @@
         "prismic-reactjs": "^1.1.0",
         "react": "^16.13.1",
         "styled-components": "^4.3.2"
-    }
+    },
+    "gitHead": "52b49e85858bc380b28bbcecb9027f3d39a78c17"
 }
