@@ -1,6 +1,6 @@
 {
     "name": "@paygreen-richtext/core",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "RichText for prismic with PayGreen UI",
     "author": "Matthieu Coulon <matthieu.coulon@paygreen.fr>",
     "homepage": "",
@@ -35,8 +35,8 @@
     },
     "peerDependencies": {
         "@paygreen/paygreen-ui": "^0.2.29",
+        "prismic-reactjs": "^1.1.0",
         "react": "^16.13.1",
-        "styled-components": "^4.3.2",
-        "prismic-reactjs": "^1.1.0"
+        "styled-components": "^4.3.2"
     }
 }
