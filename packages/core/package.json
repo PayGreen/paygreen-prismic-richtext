@@ -11,6 +11,10 @@
     "directories": {
         "lib": "lib"
     },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:PayGreen/paygreen-prismic-richtext.git"
+      },
     "files": [
         "lib"
     ],
